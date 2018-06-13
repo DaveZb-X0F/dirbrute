@@ -11,3 +11,7 @@ $: python dirbrute.py http://target.com directorylist.txt
 
 [ - ]Thats It, Now Go Fourth And Found Those Directories For Further "Pentesting".
 (I'm Pretty Sure You Know Why I Put "Pentesting" In Quotes)
+
+[ - ]Also The Provided Directory List Is from Dirbuster But One Its REEAAALLYY Good And Two Because Then You Won't Be Searching The Internet For One.
+
+=)
